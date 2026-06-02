@@ -106,7 +106,7 @@ See [`SUBMISSION_GUIDE.md`](./SUBMISSION_GUIDE.md) for full instructions.
 
 **Quick version:**
 1. Clone this repo and build your solution
-2. Add an `alias.txt` file with your chosen alias (for the leaderboard)
+2. Add an `alias.txt` file with your chosen alias
 3. Push to your own GitHub repo (public or private — we'll request access if needed)
 4. Fill out the [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdkL0DdPcMHnE6olvtK3gQvaza-sZN2EEzFyYG3uD91WhqjcA/viewform) with your alias and repo link
 
